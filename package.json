@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-contacts-emails",
+  "version": "0.0.10",
+  "description": "Cordova Plugin to List Contacts Phone Numbers ",
+  "cordova": {
+    "id": "cordova-plugin-contacts-emails",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xam33r/cordova-plugin-contacts-emails.git"
+  },
+  "keywords": [
+    "cordova",
+    "contacts",
+    "list",
+    "phone",
+    "numbers",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Didier Baquier",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/xam33r/cordova-plugin-contacts-emails/issues"
+  },
+  "homepage": "https://github.com/xam33r/cordova-plugin-contacts-emails#readme"
+}
