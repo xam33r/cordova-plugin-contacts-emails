@@ -3,7 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="com.zam.cordova.contactsemails"
-    version="0.0.10">
+    version="0.0.1">
 
     <name>Contacts Emails</name>
     <description>Cordova Plugin to List Contacts with emails </description>
